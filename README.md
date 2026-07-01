@@ -1,4 +1,4 @@
-# 🧪 Echo Labs
+# Echo Labs
 
 **A web-based simulation laboratory for creating, running, and experimenting with persistent multi-agent worlds powered by LLMs.**
 
